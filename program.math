@@ -1,0 +1,2 @@
+function f(x) = x^2 + 3*x + 2
+plot(f, range(-10, 10))
